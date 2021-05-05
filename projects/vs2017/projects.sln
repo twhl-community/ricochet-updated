@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ricochetdll", "ricochetdll.vcxproj", "{CE8DCBE4-D8DB-46E5-8607-8FCC5FA667FB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ricochet_cdll", "ricochet_cdll.vcxproj", "{EA7DE935-F997-4EA8-9135-E2FE5E5D2C1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE8DCBE4-D8DB-46E5-8607-8FCC5FA667FB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CE8DCBE4-D8DB-46E5-8607-8FCC5FA667FB}.Debug|Win32.Build.0 = Debug|Win32
+		{CE8DCBE4-D8DB-46E5-8607-8FCC5FA667FB}.Release|Win32.ActiveCfg = Release|Win32
+		{CE8DCBE4-D8DB-46E5-8607-8FCC5FA667FB}.Release|Win32.Build.0 = Release|Win32
+		{EA7DE935-F997-4EA8-9135-E2FE5E5D2C1B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EA7DE935-F997-4EA8-9135-E2FE5E5D2C1B}.Debug|Win32.Build.0 = Debug|Win32
+		{EA7DE935-F997-4EA8-9135-E2FE5E5D2C1B}.Release|Win32.ActiveCfg = Release|Win32
+		{EA7DE935-F997-4EA8-9135-E2FE5E5D2C1B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09AC31C1-A56C-496D-8827-28032D3CAA4C}
+	EndGlobalSection
+EndGlobal
