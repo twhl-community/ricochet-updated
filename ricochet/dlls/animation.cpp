@@ -12,11 +12,12 @@
 *   without written permission from Valve LLC.
 *
 ****/
+
+#include "Platform.h"
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
-typedef bool BOOL;
 
 // hack into header files that we can ship
 typedef int qboolean;

@@ -50,6 +50,8 @@ CBaseEntity
 #include "monsterevent.h"
 #endif
 
+#include "Platform.h"
+
 // C functions for external declarations that call the appropriate C++ methods
 
 #ifndef CBASE_DLLEXPORT

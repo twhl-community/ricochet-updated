@@ -13,6 +13,8 @@
 *
 ****/
 
+#include "Platform.h"
+
 #include <assert.h>
 #include "mathlib.h"
 #include "const.h"
